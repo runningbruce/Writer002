@@ -1,4 +1,5 @@
 [![Stories in Ready](https://badge.waffle.io/runningbruce/Writer002.png?label=ready&title=Ready)](https://waffle.io/runningbruce/Writer002)
+[![Stories in Ready](https://badge.waffle.io/runningbruce/Writer002.png?label=ready&title=Ready)](https://waffle.io/runningbruce/Writer002)
 # 开智学堂认知写作学课程说明
 
 ## 课程设计
